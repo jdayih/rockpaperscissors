@@ -1,1 +1,2 @@
-A rock-paper-scissors game, created in Python, where it is the player vs the computer. The computer’s answer will be randomly generated, while the program will ask the user for their input.
+A rock-paper-scissors game, created in Python, where it is the player vs the computer. The computer’s answer will be 
+randomly generated, while the program will ask the user for their input.
